@@ -15,4 +15,4 @@ models:
       +schema: staging
     marts:
       +materialized: table
-      +schema: ecommerce_marts
+     
